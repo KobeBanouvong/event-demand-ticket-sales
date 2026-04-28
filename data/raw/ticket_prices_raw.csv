@@ -1,0 +1,11 @@
+ticket_type,ticket_tier,duration_days,access_level,price_usd
+1-Day GA,GA,1,General Admission,189
+1-Day GA+,GA+,1,Premium GA,300
+1-Day VIP,VIP,1,VIP,635
+1-Day Platinum,Platinum,1,Platinum,2130
+2-Day GA,GA,2,General Admission,378
+4-Day GA,GA,4,General Admission,415
+4-Day GA+,GA+,4,Premium GA,775
+4-Day VIP,VIP,4,VIP,1670
+4-Day Platinum,Platinum,4,Platinum,4550
+4-Day Lolla Insider,Insider,4,Ultra Premium,25000
