@@ -1,0 +1,5 @@
+festival_day,event_date,artist_count,headliner_count,stage_count,premium_acts,unique_billing_tiers,upper_acts,mid_acts,lower_acts,total_popularity,avg_popularity,demand_score
+Friday,2025-08-01,49,2,1,2,4,6,12,29,1961,40.02,1274.6
+Saturday,2025-08-02,49,2,1,2,4,6,12,29,1894,38.65,1234.4
+Sunday,2025-08-03,48,2,1,2,4,6,12,28,1937,40.35,1260.2
+Thursday,2025-07-31,48,2,1,2,4,6,12,28,1939,40.4,1261.4
